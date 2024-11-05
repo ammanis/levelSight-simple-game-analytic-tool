@@ -9,7 +9,7 @@ This document is a set of guidelines to help you contribute to this project.
 By participating in this project, you are expected to uphold our [Code of
 Conduct][code_of_conduct].
 
-[code_of_conduct]: [https://opensource.creativecommons.org/community/code-of-conduct/](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool/blob/main/CODE_OF_CONDUCT.md)
+[code_of_conduct]: https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool/blob/main/CODE_OF_CONDUCT.md
 
 
 ## Project Documentation
