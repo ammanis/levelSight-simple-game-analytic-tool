@@ -1,6 +1,6 @@
 # Contributing to Our Project
 
-Thank you for your interest in contributing to LevelSight, a game analytic tool! 
+Thank you for your interest in contributing to levelSight, a game analytic tool! 
 This document is a set of guidelines to help you contribute to this project.
 
 ## Contribution Workflow
