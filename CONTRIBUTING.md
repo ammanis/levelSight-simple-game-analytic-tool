@@ -1,7 +1,7 @@
-# Contributing to CC Open Source
+# Contributing to Our Project
 
-Thank you for your interest in contributing to CC Open Source! This document is
-a set of guidelines to help you contribute to this project.
+Thank you for your interest in contributing to LevelSight, a game analytic tool! 
+This document is a set of guidelines to help you contribute to this project.
 
 
 ## Code of Conduct
@@ -9,7 +9,7 @@ a set of guidelines to help you contribute to this project.
 By participating in this project, you are expected to uphold our [Code of
 Conduct][code_of_conduct].
 
-[code_of_conduct]: https://opensource.creativecommons.org/community/code-of-conduct/
+[code_of_conduct]: [https://opensource.creativecommons.org/community/code-of-conduct/](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool/blob/main/CODE_OF_CONDUCT.md)
 
 
 ## Project Documentation
@@ -26,18 +26,3 @@ Once you have identified an issue to work on:
 * Work in a [new branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).
 * Open a [Pull Request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and follow the PR template.
 
-For additional guidelines, refer to the [Foundational technologies — Creative Commons Open Source](https://opensource.creativecommons.org/contributing-code/foundational-tech/).
-
-## How to Contribute
-
-Please follow the processes in our general [Contributing Code][contributing]
-guidelines on the Creative Common Open Source website.
-
-[contributing]: https://opensource.creativecommons.org/contributing-code/
-
-
-## Questions or Thoughts?
-
-Talk to us on [one of our community forums][community].
-
-[community]: https://opensource.creativecommons.org/community/
