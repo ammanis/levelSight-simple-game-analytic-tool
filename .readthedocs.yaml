@@ -4,15 +4,12 @@ version: 2
 # Build settings
 build:
   tools:
-    python: "3.8"  # Use the appropriate Python version to run Sphinx
+    python: "3.8"  # specify the Python version
 
-# Specify the location of Sphinx configuration file
+# Specify the location of your Sphinx configuration file
 sphinx:
-  configuration: docs/source/conf.py  # Path to Sphinx configuration file
+  configuration: docs/source/conf.py  # path to your Sphinx configuration file
 
-# Optional: Specify Python version
-python:
-  version: "3.8"  # The Python version that matches your environment
 
 
 
