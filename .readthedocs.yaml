@@ -5,15 +5,12 @@ version: 2
 build:
   os: "ubuntu-22.04"
   tools:
-     - python  # specify the Python version required to run Sphinx
+    python: "3.8"  # specify the Python version required to run Sphinx
 
 # Specify the location of your Sphinx configuration file
 sphinx:
   configuration: docs/source/conf.py  # Path to Sphinx configuration file
 
-# Optional: Set the Python version for the build environment
-python:
-  version: "3.8"  # The Python version that matches your environment
 
 
 
