@@ -40,7 +40,8 @@ alternatives like Matomo.
 
 * **Tools**: pandas, matplotlib, Node.js, socket.io, MongoDB, Firebase
 
-## Documentation
+
+# Documentation
 
 You can find the full documentation for this project at:
 [Read the Docs](https://levelsight-simple-game-analytic-tool.readthedocs.io/en/latest/)
