@@ -1,0 +1,18 @@
+
+
+version: 2
+
+# Build settings
+build:
+  image: "ubuntu-22.04"
+  os: "ubuntu-22.04"
+  tools:
+    - sphinx  # This tells Read the Docs to use Sphinx for building the documentation
+
+# Specify the location of Sphinx configuration file
+sphinx:
+  configuration: docs/source/conf.py  # Path to Sphinx configuration file
+
+# Optional: Set the Python version for the build environment
+python:
+  version: 3.8  # Use the appropriate Python version
