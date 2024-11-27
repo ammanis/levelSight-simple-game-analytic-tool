@@ -1,0 +1,7 @@
+{
+    "output_directory": "./output",
+    "theme": "light",
+    "use_database": false,
+    "analysis_frequency": "daily"
+}
+
