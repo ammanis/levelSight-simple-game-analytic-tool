@@ -3,7 +3,8 @@ Release Notes
 
 v1.0.0 (Initial Release)
 -------------------------
-### Features:
+Features:
+
 - Player behavior tracking: Levels completed, time spent, and failures.
 - Data visualization: Interactive dashboards for insights.
 - Export support: CSV and JSON formats for data export.
