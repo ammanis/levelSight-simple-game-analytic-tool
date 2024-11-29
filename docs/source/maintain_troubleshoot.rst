@@ -27,4 +27,4 @@ Common Issues
 
 Additional Help
 ---------------
-For further assistance, refer to the official documentation or contact the maintainers for support.
+For further assistance, contact the maintainers for support.
