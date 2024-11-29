@@ -15,17 +15,20 @@ Why Choose LevelSight?
 Key Features
 ------------
 
-🔍 **Player Behavior Tracking**  
+**Player Behavior Tracking**  
+
 - Monitor levels completed, time spent, and points of failure.  
 - Identify patterns and improve the player experience.
 
-📈 **Data Visualization**  
+**Data Visualization**  
+
 - Access clean, interactive dashboards for clear insights.  
 - Get a quick overview or dive deep into player metrics.
 
-📤 **Export Capabilities**  
+**Export Capabilities**  
+
 - Export data in **CSV** or **JSON** format for external analysis.  
 - Share insights with your team or integrate with other tools.
 
-**🚀 Ready to level up your game analytics?**  
+**Ready to level up your game analytics?**  
 Explore LevelSight today and make your games better than ever!
