@@ -1,5 +1,5 @@
 About LevelSight
-==========
+=================
 
 **Your Gateway to Game Analytics**
 
