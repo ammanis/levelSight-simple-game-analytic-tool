@@ -7,9 +7,11 @@ Features:
 
 - Player behavior tracking: Levels completed, time spent, and failures.
 - Data visualization: Interactive dashboards for insights.
-- Export support: CSV and JSON formats for data export.
+- Export support: file formats for data export.
 
 Planned Updates
 ---------------
 - Enhanced visualization themes for better user experience.
-- Support for additional log formats to increase compatibility.
+- Will add detailed information (damage output each attack)
+- Allow data export in various formats more efficiently (CSV)
+
