@@ -8,8 +8,8 @@ Prerequisites
 -------------
 Before you begin, make sure you have:  
 
-1. 🐍 **Python**: Version 3.8 or higher installed.  
-2. 📦 **Required Libraries**: `pandas`, `matplotlib`.  
+1.  **Python**: Version 3.8 or higher installed.  
+2.  **Required Libraries**: `pandas`, `matplotlib`.  
 
 Installation  
 ------------
