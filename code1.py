@@ -26,23 +26,26 @@ def record_failure(username, level):
     if username in player_data and level in player_data[username]['levels']:
         player_data[username]['levels'][level]['failures'] += 1
 
-# Function to get player stats
-def get_player_stats(username):
+# Function to save player stats to a text file
+def save_player_stats_to_file(username, filename="player_stats.txt"):
     if username in player_data:
         stats = player_data[username]['levels']
-        for level, data in stats.items():
-            print(f"Level {level}:")
-            print(f"  Time Spent: {data['time_spent']:.2f} seconds")
-            print(f"  Failures: {data['failures']}")
+        with open(filename, 'w') as file:
+            file.write(f"Statistics for {username}:\n")
+            for level, data in stats.items():
+                file.write(f"Level {level}:\n")
+                file.write(f"  Time Spent: {data['time_spent']:.2f} seconds\n")
+                file.write(f"  Failures: {data['failures']}\n")
+        print(f"Player stats saved to {filename}")
     else:
         print("No data found for the given username.")
 
 # Example usage
 username = "Player1"
 start_level(username, 1)
-time.sleep(2)  # Simulate time spent in level
+time.sleep(3)  # Simulate time spent in level
 end_level(username, 1)
 record_failure(username, 1)
 record_failure(username, 1)
 
-get_player_stats(username)
+save_player_stats_to_file(username)
