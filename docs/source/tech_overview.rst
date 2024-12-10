@@ -30,7 +30,4 @@ Technologies Used
 - **Backend**: Python
 - **Data Analysis**: `pandas`, `matplotlib`
 - **Database**: MongoDB (optional for storing large datasets)
-- **Other Tools**: 
-  
-  - **Node.js**: Powers the dashboard for real-time interaction and updates.
-  - **Firebase**: Used for hosting and deploying the visualization dashboards.
+
