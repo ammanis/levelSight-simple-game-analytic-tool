@@ -12,7 +12,7 @@ Common Issues
    
    - **Solution**: 
   
-     - Verify that your log files are in the correct format (`.csv` or `.json`).
+     - Verify that your log files are in the correct format (`.txt` or `.json`).
      - Double-check the file path to ensure the correct file is being accessed.
 
 2. **Issue: Dashboard Not Loading**  
@@ -27,4 +27,4 @@ Common Issues
 
 Additional Help
 ---------------
-For further assistance, contact the maintainers for support.
+For further assistance, contact the admin or the maintainers for support.
