@@ -17,7 +17,7 @@ example:-
 
   .. code:: bash
 
-      python levelsight.py --upload game_logs.csv
+      python levelsight.py --upload game_logs.txt
 
 Step 3: Analyze Data
 --------------------
