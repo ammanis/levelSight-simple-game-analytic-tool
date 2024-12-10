@@ -8,9 +8,9 @@ It empowers creators with simple yet effective insights into player behavior, he
 
 Why Choose LevelSight?
 -----------------------
-- 🎮 **Understand Your Players**: Gain insights into how players interact with your game.  
-- 📊 **Make Data-Driven Decisions**: Use analytics to refine game design and improve user engagement.  
-- 🌟 **Open-Source Flexibility**: Customize and expand as your needs grow.  
+-  **Understand Your Players**: Gain insights into how players interact with your game.  
+-  **Make Data-Driven Decisions**: Use analytics to refine game design and improve user engagement.  
+-  **Open-Source Flexibility**: Customize and expand as your needs grow.  
 
 Key Features
 ------------
@@ -27,7 +27,7 @@ Key Features
 
 **Export Capabilities**  
 
-- Export data in **CSV** or **JSON** format for external analysis.  
+- Export data in file format for external analysis.  
 - Share insights with your team or integrate with other tools.
 
 **Ready to level up your game analytics?**  
