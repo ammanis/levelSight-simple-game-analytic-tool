@@ -7,13 +7,7 @@ Q: Who is this tool for?
 
 Q: Can I integrate this with external tools?
 --------------------------------------------
-**A**: Yes, LevelSight supports data export in both **CSV** and **JSON** formats, making it easy to integrate with external tools like Google Analytics, Matomo, or other analytics platforms.
-
-Q: What data formats are supported?
-------------------------------------
-**A**: The tool supports structured log files in the following formats:
-- **CSV** (.csv)
-- **JSON** (.json)
+**A**: Yes, LevelSight supports data export in both **TXT** and **JSON** formats, making it easy to integrate with external tools like Google Analytics, or other analytics platforms.
 
 Q: Is it suitable for advanced analytics?
 -----------------------------------------
