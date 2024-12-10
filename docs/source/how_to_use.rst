@@ -4,7 +4,7 @@ How to Use LevelSight
 Step 1: Prepare Game Logs
 --------------------------
 - Collect player activity logs from your game.
-- Ensure the logs are in `.csv` or `.json` format with the following fields:
+- Ensure the logs are in `.txt` format with the following fields:
   
   - `Level ID`
   - `Time Spent`
@@ -12,7 +12,8 @@ Step 1: Prepare Game Logs
 
 Step 2: Load Data
 -----------------
-- Use the provided `upload` functionality to import the logs into **LevelSight**:
+- Use the provided `upload` functionality to import the logs into **LevelSight**: 
+example:-
 
   .. code:: bash
 
@@ -21,6 +22,7 @@ Step 2: Load Data
 Step 3: Analyze Data
 --------------------
 - Generate insights by running the `analyze` command:
+example:-
 
   .. code:: bash
 
@@ -35,6 +37,7 @@ Step 3: Analyze Data
 Step 4: Visualize Insights
 --------------------------
 - Open the visualization dashboard to review player behavior trends:
+example:-
 
   .. code:: bash
 
@@ -43,7 +46,8 @@ Step 4: Visualize Insights
 Step 5: Export Data
 -------------------
 - Export processed insights for external analysis:
+example:-
 
   .. code:: bash
 
-      python levelsight.py --export output.csv
+      python levelsight.py --export output.txt
