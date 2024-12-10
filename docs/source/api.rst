@@ -5,7 +5,7 @@ Available Endpoints
 -------------------
 - **`/upload`**: Upload player logs.
 - **`/analyze`**: Generate insights and return a JSON response.
-- **`/export`**: Export data in CSV or JSON format.
+- **`/export`**: Export data in file format.
 
 Example Usage
 -------------
