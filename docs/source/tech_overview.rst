@@ -22,7 +22,7 @@ Core Components
 
 3. **Export/Integration**
    
-   - Facilitates exporting analyzed data to CSV or JSON formats for integration with external analytics platforms.
+   - Facilitates exporting analyzed data to file formats for integration with external analytics platforms.
    - Supports seamless data export for further processing and reporting.
 
 Technologies Used
