@@ -9,8 +9,8 @@ At **levelSight**, our mission is to empower beginner game developers with a sim
 
 ---
 
-## 📰 **Latest News: Release v0.1.2**  
-We’re excited to announce the first public release of **levelSight**: [v0.1.2](https://github.com/ammanis/levelSight-simple-game-analytic-tool/releases/tag/v0.1.2).  
+## 📰 **Latest News: Release v0.1.3**  
+We’re excited to announce the first public release of **levelSight**: [v0.1.3](https://github.com/ammanis/levelSight-simple-game-analytic-tool/releases/tag/v0.1.3).  
 
 ### 🚀 **What’s New?**
 - **Player Behavior Tracking**: Input youself data on levels completed, time spent, and player failures.
@@ -38,7 +38,7 @@ If you’re exploring game analytics tools, these related projects can be great 
 ---
 
 ### 🔗 **Get Started**
-- **[Download levelSight v0.1.2](https://github.com/ammanis/levelSight-simple-game-analytic-tool/releases/tag/v0.1.2)**
+- **[Download levelSight v0.1.3](https://github.com/ammanis/levelSight-simple-game-analytic-tool/releases/tag/v0.1.3)**
 - **[Live Documentation](https://levelsight-simple-game-analytic-tool.readthedocs.io/en/latest/)**  
 - **[GitHub Repository](https://github.com/nabilachemansor/levelSight-simple-game-analytic-tool)**
 
